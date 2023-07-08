@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenPackageUpdate" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="com.auth0:java-jwt" />
+          <option value="com.google.apis:google-api-services-calendar" />
+          <option value="com.google.guava:guava" />
+          <option value="com.itextpdf:html2pdf" />
+          <option value="commons-io:commons-io" />
+          <option value="com.opencsv:opencsv" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
